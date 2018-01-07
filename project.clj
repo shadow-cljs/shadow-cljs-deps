@@ -1,4 +1,4 @@
-(defproject thheller/shadow-cljs-deps "1.0.1"
+(defproject thheller/shadow-cljs-deps "1.1.1"
   :dependencies
   [[org.clojure/clojure "1.9.0"]
    [com.cemerick/pomegranate "1.0.0"]
